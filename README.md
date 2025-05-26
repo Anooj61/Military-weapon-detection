@@ -1,1 +1,0 @@
-# Military-weapon-detection
